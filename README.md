@@ -1,6 +1,6 @@
 # Crypto-price-alert
 a simple python windows app to track price of crypto symbols and show alarm if price reach the target
-# Crypto Price Alert (Modern UI, Bilingual)
+# Crypto Price Alert (Bilingual)
 
 A desktop application for **Windows** to track cryptocurrency prices and trigger alarms when target prices are reached.  
 Built with **Python** and **pystray** for system tray integration.
